@@ -1,12 +1,12 @@
-### 一、Sing-box-yg精装桶一键四协议共存脚本（VPS专用）
-### 二、Serv00/Hostuno-sb-yg多平台一键三协议共存脚本（Serv00/Hostuno专用）
+### 一、Sing-box-Ksong精装桶一键四协议共存脚本（VPS专用）
+### 二、Serv00/Hostuno-sb-Ksong多平台一键三协议共存脚本（Serv00/Hostuno专用）
 
 ### 注：本项目分享订阅节点都为本地化生成，不使用节点转换、订阅器等第三方外链引用，无需担心节点订阅被外链作者查看
 
 ### 交流平台：[甬哥博客地址](https://ygkkk.blogspot.com)、[甬哥YouTube频道](https://www.youtube.com/@ygkkk)、[甬哥TG电报群组](https://t.me/+jZHc6-A-1QQ5ZGVl)、[甬哥TG电报频道](https://t.me/+DkC9ZZUgEFQzMTZl)
 --------------------------------------------------------------
 
-### 一、Sing-box-yg精装桶小白专享一键四协议共存脚本（VPS专用）
+### 一、Sing-box-Ksong精装桶小白专享一键四协议共存脚本（VPS专用）
 
 * 支持人气最高的四大协议：Vless-reality-vision、Vmess-ws(tls)/Argo、Hysteria-2、Tuic-v5
 
@@ -14,7 +14,7 @@
 
 * 小白简单模式：无需域名证书，回车三次就安装完成，复制、扫描你要的节点配置
 
-#### 相关说明及注意点请查看[甬哥博客说明与Sing-box视频教程](https://ygkkk.blogspot.com/2023/10/sing-box-yg.html)
+#### 相关说明及注意点请查看[甬哥博客说明与Sing-box视频教程](https://ygkkk.blogspot.com/2023/10/Sing-box-yg.html)
 
 #### 视频教程：
 
@@ -31,16 +31,16 @@
 ### VPS专用一键脚本如下：快捷方式：```sb```
 
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Ksong16888/Sing-box-Ksong/main/sb.sh)
 ```
 或者
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/Ksong16888/Sing-box-Ksong/main/sb.sh)
 ```
 
 更新中的ArgoSB脚本，专为Google IDX VPS设计：https://github.com/yonggekkk/ArgoSB
 
-### Sing-box-yg脚本界面预览图（注：相关参数随意填写，仅供围观）
+### Sing-box-Ksong脚本界面预览图（注：相关参数随意填写，仅供围观）
 
 ![1d5425c093618313888fe41a55f493f](https://github.com/user-attachments/assets/2b4b04a6-2de4-499a-afa1-ed78bccc50a8)
 
@@ -81,7 +81,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/sb.
 * Argo高度自定义：可以重置临时隧道; 可以继续使用上回的固定隧道; 也可以更换固定隧道的域名或token
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/serv00.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/Sing-box-Ksong/main/serv00.sh)
 ```
 
 #### Serv00/Hostuno-sb-yg脚本界面预览图，仅限方案一的SSH端安装脚本（注：仅供围观）
@@ -105,7 +105,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/ser
 * 也可以手动放在其他目录，做好cron定时或者使用网页保活
 
 ```
-curl -sSL https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/kp.sh -o kp.sh && chmod +x kp.sh && nano kp.sh
+curl -sSL https://raw.githubusercontent.com/yonggekkk/Sing-box-Ksong/main/kp.sh -o kp.sh && chmod +x kp.sh && nano kp.sh
 ```
 
 ### 注意：
@@ -135,7 +135,7 @@ curl -sSL https://raw.githubusercontent.com/yonggekkk/sing-box-yg/main/kp.sh -o 
 -----------------------------------------------------
 
 ### 感谢你右上角的star🌟
-[![Stargazers over time](https://starchart.cc/yonggekkk/sing-box-yg.svg)](https://starchart.cc/yonggekkk/sing-box-yg)
+[![Stargazers over time](https://starchart.cc/yonggekkk/Sing-box-Ksong.svg)](https://starchart.cc/yonggekkk/Sing-box-Ksong)
 
 ---------------------------------------
 #### 声明：所有代码来源于Github社区与ChatGPT的整合，[老王eooce](https://github.com/eooce/Sing-box/blob/test/sb_00.sh)、[frankiejun](https://github.com/frankiejun/serv00-play/blob/main/start.sh)
